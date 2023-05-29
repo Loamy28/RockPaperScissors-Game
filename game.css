@@ -1,0 +1,18 @@
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+}
+#gameDiv{
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: lightgreen;
+    text-align: center;
+}
+#playerText{
+    color: blue;
+}
+
+#botText{
+    color: red;
+}
